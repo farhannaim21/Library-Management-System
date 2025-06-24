@@ -36,6 +36,15 @@ A full-stack web application for managing library operations like book/movie man
 
 ---
 
+### 🛠️ Administration Control Panel
+![Admin Dashboard 1](images/admin_CP1.png)
+![Admin Dashboard 2](images/admin_CP2.png)
+
+---
+
+### 📄 Library Transactions
+![Library Transactions](images/Library_Transactions.png)
+
 ### 📚 Add Book/Movie Page
 ![Add Book](images/add_book.png)
 
@@ -47,7 +56,7 @@ A full-stack web application for managing library operations like book/movie man
 ---
 
 ### 💰 Fine Payment
-![Fine Payment](images/fine.png)
+![Fine Payment](images/pay_fine.png)
 
 ---
 
