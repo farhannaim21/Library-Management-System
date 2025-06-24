@@ -2,8 +2,6 @@
 
 A full-stack web application for managing library operations like book/movie management, membership, fines, and user/admin roles. Built using Flask and MySQL.
 
-![Home Page](images/homepage.png)
-
 ---
 
 ## 🚀 Features
@@ -33,7 +31,8 @@ A full-stack web application for managing library operations like book/movie man
 ---
 
 ### 🏠 Admin Dashboard
-![Admin Dashboard](images/admin_dashboard.png)
+![Admin Dashboard](images/admin_dashboard1.png)
+![Admin Dashboard](images/admin_dashboard2.png)
 
 ---
 
